@@ -1,0 +1,6 @@
+{
+  "name": "EduTask AI - Sistem Manajemen Tugas & Motivasi Belajar Nasional",
+  "description": "Sistem otomatisasi pemantauan tugas sekolah dengan notifikasi tenggat waktu realtime, gamifikasi poin apresiasi nilai >90%, papan peringkat interaktif, dan analitik performa komprehensif untuk guru, siswa, dan orang tua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
